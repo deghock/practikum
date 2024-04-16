@@ -1,0 +1,5 @@
+/usr/local/mpich2
+
+/usr/local/intel/impi/4.0.3.008
+
++ своя реализация OPENMPI в $HOME

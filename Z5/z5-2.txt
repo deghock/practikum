@@ -1,0 +1,8 @@
+Чтобы запустить программу на узлах teslaXX необходимо поменять выбор узлов
+
+#PBS -l nodes=tesla01:ppn=2+tesla02:ppn=2
+
+и поменять окружение 
+
+export PATH=/soft2/tesla/openmpi-1.10.7/bin:$PATH
+export LD_LIBRARY_PATH=/soft2/tesla/openmpi-1.10.7/lib/

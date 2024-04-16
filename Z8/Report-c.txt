@@ -1,0 +1,17 @@
+На одном узле:
+
+        serial | multithreads  mpi     proc
+Mflops  223    | 1540          863     2
+        845    | 2629          1336    4
+               | 3723          1554    8
+
+Mpi на 4 узлах:
+
+proc per
+  node    Mflops
+1         84
+4         131
+8         148
+
+
+

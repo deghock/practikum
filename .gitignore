@@ -1,0 +1,16 @@
+Z6/
+Z7/
+Z9/
+Z10/
+2017/
+*.o*
+*.e*
+Z3/cpi-*
+Z4/mp
+Z5/cpi-*
+Z8/simpleFFTW/
+fftw_test_3d_mpi_double
+fftw_test_3d_mt_double
+fftw_test_3d_serial_double
+1
+
